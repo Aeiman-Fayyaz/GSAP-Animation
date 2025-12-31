@@ -1,0 +1,24 @@
+.data{
+    background-color: plum;
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    box-shadow: 10px 10px 15px gray;
+    border: 5px dotted;
+}
+.gopi{
+    background-color: plum;
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    box-shadow: 10px 10px 15px gray;
+    border: 5px dotted green;
+}
+.ahm{
+    background-color: plum;
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    box-shadow: 10px 10px 15px gray;
+    border: 5px dotted rgb(128, 0, 0);
+}
